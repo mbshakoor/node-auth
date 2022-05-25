@@ -1,0 +1,1 @@
+module.exports =  n => require("debug")(`logger:${n}`)
